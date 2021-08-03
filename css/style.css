@@ -1,0 +1,17 @@
+body{
+  background-color: lightblue;
+}
+header{
+  height: 200px;
+  background-color: rgb(163, 128, 163);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+img{
+  width: 100px;
+  height: 150px;
+}
+
+
+
